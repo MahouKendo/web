@@ -1,0 +1,5 @@
+surename = input("Surename: ")
+house_number = int(input("House number: "))
+road = input("Road name: ")
+town = input("Town: ")
+print(f"Mr and Mrs {surename},\n{house_number}, {road}\n{town}") 

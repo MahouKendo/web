@@ -1,0 +1,7 @@
+a) float
+b) float
+c) string
+d) float
+e) int
+f) string
+g) float
